@@ -9,10 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "cap": "^0.1.2",
     "compression": "^1.7.1",
     "express": "^4.16.2",
     "form-data": "^2.3.1",
-    "node-fetch": "^1.7.3"
+    "node-fetch": "^1.7.3",
+    "sqlite": "^2.8.0"
   }
 }
